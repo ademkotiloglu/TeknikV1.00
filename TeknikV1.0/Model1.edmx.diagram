@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="06970fb0da6e47a990e381a88b51ee58" Name="Diagram1">
+        <EntityTypeShape EntityType="Database1Model.Hizmetler" Width="1.5" PointX="2.375" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.Grafik" Width="1.5" PointX="5.625" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.KayitDurumu" Width="1.5" PointX="2.375" PointY="2.625" />
+        <EntityTypeShape EntityType="Database1Model.Aksesuar" Width="1.5" PointX="5.625" PointY="2.5" />
+        <EntityTypeShape EntityType="Database1Model.Cihazlar" Width="1.5" PointX="4" PointY="3.375" />
+        <EntityTypeShape EntityType="Database1Model.Musteri" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.Not" Width="1.5" PointX="0.75" PointY="3.5" />
+        <EntityTypeShape EntityType="Database1Model.Kayitlar" Width="1.5" PointX="5.5" PointY="5.125" />
+        <EntityTypeShape EntityType="Database1Model.StoklarTb" Width="1.5" PointX="7.5" PointY="2.125" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
